@@ -1,0 +1,16 @@
+G:\S2\作品\餐饮管理系统\Anteroom\AnteroomCommon\obj\Debug\AnteroomCommon.csprojResolveAssemblyReference.cache
+G:\S2\作品\餐饮管理系统\Anteroom\AnteroomCommon\bin\Debug\AnteroomCommon.dll
+G:\S2\作品\餐饮管理系统\Anteroom\AnteroomCommon\bin\Debug\AnteroomCommon.pdb
+G:\S2\作品\餐饮管理系统\Anteroom\AnteroomCommon\obj\Debug\AnteroomCommon.dll
+G:\S2\作品\餐饮管理系统\Anteroom\AnteroomCommon\obj\Debug\AnteroomCommon.pdb
+F:\S2\作品\餐饮管理系统\Anteroom\AnteroomCommon\bin\Debug\AnteroomCommon.dll
+F:\S2\作品\餐饮管理系统\Anteroom\AnteroomCommon\bin\Debug\AnteroomCommon.pdb
+F:\S2\作品\餐饮管理系统\Anteroom\AnteroomCommon\obj\Debug\AnteroomCommon.csprojResolveAssemblyReference.cache
+F:\S2\作品\餐饮管理系统\Anteroom\AnteroomCommon\obj\Debug\AnteroomCommon.dll
+F:\S2\作品\餐饮管理系统\Anteroom\AnteroomCommon\obj\Debug\AnteroomCommon.pdb
+G:\S2\作品\餐饮管理系统\Anteroom\AnteroomCommon\bin\Debug\AnteroomBLL.dll
+G:\S2\作品\餐饮管理系统\Anteroom\AnteroomCommon\bin\Debug\AnteroomModels.dll
+G:\S2\作品\餐饮管理系统\Anteroom\AnteroomCommon\bin\Debug\AnteroomDAL.dll
+G:\S2\作品\餐饮管理系统\Anteroom\AnteroomCommon\bin\Debug\AnteroomBLL.pdb
+G:\S2\作品\餐饮管理系统\Anteroom\AnteroomCommon\bin\Debug\AnteroomModels.pdb
+G:\S2\作品\餐饮管理系统\Anteroom\AnteroomCommon\bin\Debug\AnteroomDAL.pdb

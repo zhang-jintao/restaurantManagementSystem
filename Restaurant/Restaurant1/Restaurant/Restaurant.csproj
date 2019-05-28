@@ -1,0 +1,206 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{10D4F97D-91EA-4541-8F0A-5CE768259AC1}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Restaurant</RootNamespace>
+    <AssemblyName>Restaurant</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="FrmCaudleInsert.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmCaudleInsert.Designer.cs">
+      <DependentUpon>FrmCaudleInsert.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmCaudleUpd.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmCaudleUpd.Designer.cs">
+      <DependentUpon>FrmCaudleUpd.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmCaudleUpdate.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmCaudleUpdate.Designer.cs">
+      <DependentUpon>FrmCaudleUpdate.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmCribInsert.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmCribInsert.Designer.cs">
+      <DependentUpon>FrmCribInsert.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmAdmin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmAdmin.Designer.cs">
+      <DependentUpon>FrmAdmin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmCribKu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmCribKu.Designer.cs">
+      <DependentUpon>FrmCribKu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmCribUpdate.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmCribUpdate.Designer.cs">
+      <DependentUpon>FrmCribUpdate.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmMenuInsert.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmMenuInsert.Designer.cs">
+      <DependentUpon>FrmMenuInsert.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmLogin.Designer.cs">
+      <DependentUpon>FrmLogin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmMain.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmMain.Designer.cs">
+      <DependentUpon>FrmMain.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmMenu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmMenu.Designer.cs">
+      <DependentUpon>FrmMenu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmMenuUpdate.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmMenuUpdate.Designer.cs">
+      <DependentUpon>FrmMenuUpdate.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="FrmSee.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmSee.Designer.cs">
+      <DependentUpon>FrmSee.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="FrmCaudleInsert.resx">
+      <DependentUpon>FrmCaudleInsert.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmCaudleUpd.resx">
+      <DependentUpon>FrmCaudleUpd.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmCaudleUpdate.resx">
+      <DependentUpon>FrmCaudleUpdate.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmCribInsert.resx">
+      <DependentUpon>FrmCribInsert.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmAdmin.resx">
+      <DependentUpon>FrmAdmin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmCribKu.resx">
+      <DependentUpon>FrmCribKu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmCribUpdate.resx">
+      <DependentUpon>FrmCribUpdate.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmMenuInsert.resx">
+      <DependentUpon>FrmMenuInsert.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmLogin.resx">
+      <DependentUpon>FrmLogin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmMain.resx">
+      <DependentUpon>FrmMain.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmMenu.resx">
+      <DependentUpon>FrmMenu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmMenuUpdate.resx">
+      <DependentUpon>FrmMenuUpdate.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="FrmSee.resx">
+      <DependentUpon>FrmSee.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\RestaurantBLL\RestaurantBLL.csproj">
+      <Project>{f1f2e280-c055-48f1-ac17-cc8d4d1bcaa5}</Project>
+      <Name>RestaurantBLL</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\RestaurantModels\RestaurantModels.csproj">
+      <Project>{c5ad5952-bb0b-4b8e-923b-e8208fb9f5a5}</Project>
+      <Name>RestaurantModels</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

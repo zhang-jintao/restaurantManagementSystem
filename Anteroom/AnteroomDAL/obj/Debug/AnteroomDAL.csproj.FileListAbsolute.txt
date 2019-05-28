@@ -1,0 +1,14 @@
+F:\S2\作品\餐饮管理系统\Anteroom\AnteroomDAL\bin\Debug\AnteroomDAL.dll
+F:\S2\作品\餐饮管理系统\Anteroom\AnteroomDAL\bin\Debug\AnteroomDAL.pdb
+F:\S2\作品\餐饮管理系统\Anteroom\AnteroomDAL\bin\Debug\AnteroomModels.dll
+F:\S2\作品\餐饮管理系统\Anteroom\AnteroomDAL\bin\Debug\AnteroomModels.pdb
+F:\S2\作品\餐饮管理系统\Anteroom\AnteroomDAL\obj\Debug\AnteroomDAL.csprojResolveAssemblyReference.cache
+F:\S2\作品\餐饮管理系统\Anteroom\AnteroomDAL\obj\Debug\AnteroomDAL.dll
+F:\S2\作品\餐饮管理系统\Anteroom\AnteroomDAL\obj\Debug\AnteroomDAL.pdb
+G:\S2\作品\餐饮管理系统\Anteroom\AnteroomDAL\bin\Debug\AnteroomDAL.dll
+G:\S2\作品\餐饮管理系统\Anteroom\AnteroomDAL\bin\Debug\AnteroomDAL.pdb
+G:\S2\作品\餐饮管理系统\Anteroom\AnteroomDAL\bin\Debug\AnteroomModels.dll
+G:\S2\作品\餐饮管理系统\Anteroom\AnteroomDAL\bin\Debug\AnteroomModels.pdb
+G:\S2\作品\餐饮管理系统\Anteroom\AnteroomDAL\obj\Debug\AnteroomDAL.csprojResolveAssemblyReference.cache
+G:\S2\作品\餐饮管理系统\Anteroom\AnteroomDAL\obj\Debug\AnteroomDAL.dll
+G:\S2\作品\餐饮管理系统\Anteroom\AnteroomDAL\obj\Debug\AnteroomDAL.pdb

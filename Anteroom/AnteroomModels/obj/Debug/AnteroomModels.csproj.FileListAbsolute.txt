@@ -1,0 +1,10 @@
+F:\S2\作品\餐饮管理系统\Anteroom\AnteroomModels\bin\Debug\AnteroomModels.dll
+F:\S2\作品\餐饮管理系统\Anteroom\AnteroomModels\bin\Debug\AnteroomModels.pdb
+F:\S2\作品\餐饮管理系统\Anteroom\AnteroomModels\obj\Debug\AnteroomModels.csprojResolveAssemblyReference.cache
+F:\S2\作品\餐饮管理系统\Anteroom\AnteroomModels\obj\Debug\AnteroomModels.dll
+F:\S2\作品\餐饮管理系统\Anteroom\AnteroomModels\obj\Debug\AnteroomModels.pdb
+G:\S2\作品\餐饮管理系统\Anteroom\AnteroomModels\bin\Debug\AnteroomModels.dll
+G:\S2\作品\餐饮管理系统\Anteroom\AnteroomModels\bin\Debug\AnteroomModels.pdb
+G:\S2\作品\餐饮管理系统\Anteroom\AnteroomModels\obj\Debug\AnteroomModels.csprojResolveAssemblyReference.cache
+G:\S2\作品\餐饮管理系统\Anteroom\AnteroomModels\obj\Debug\AnteroomModels.dll
+G:\S2\作品\餐饮管理系统\Anteroom\AnteroomModels\obj\Debug\AnteroomModels.pdb
